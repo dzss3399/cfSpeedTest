@@ -1,5 +1,7 @@
 # CloudflareSpeedTest UI
 
+https://dzss3399.github.io/cfSpeedTest/
+
 一个优雅的 Cloudflare IP 优选工具聚合页面，集成了多个数据源的测速结果，提供实时的 Cloudflare CDN 优选 IP 信息。
 ![](https://cdn.jsdelivr.net/gh/pusvsimg/img@main/Image/20241226142035168.png)
 ## 项目说明
